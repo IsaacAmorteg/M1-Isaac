@@ -47,3 +47,4 @@ __IMPORTANTE:__ Luego de completar cada una de las homeworks del día deberán e
 - [__Event loop__](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [__Inheritance Patterns__](http://davidshariff.com/blog/javascript-inheritance-patterns/#first-article)
 # M1-Isaac
+# M1-Isaac
