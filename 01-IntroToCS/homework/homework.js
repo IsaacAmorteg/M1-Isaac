@@ -4,10 +4,9 @@ function BinarioADecimal(num) {
   // tu codigo aca
   let result = 0;
   let power = num.length - 1;
-
+  
   for (let i=0;i<num.length;i++) {
-    result += num[i] * Math.pow(2, power);
-    power--;
+    result += num[i] * Math.pow(2, power - i);
   }
   return result;
 }
