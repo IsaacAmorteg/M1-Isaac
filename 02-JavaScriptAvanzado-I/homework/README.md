@@ -75,13 +75,13 @@ console.log(pm);
 ¿Cuál crees que será el resultado de la ejecución de estas operaciones?:
 
 ```javascript
-6 / "3"
-"2" * "3"
-4 + 5 + "px"
-"$" + 4 + 5
-"4" - 2
-"4px" - 2
-7 / 0
+6 / "3" // 2
+"2" * "3" // 6
+4 + 5 + "px" // 9px
+"$" + 4 + 5 // $45
+"4" - 2 // 2
+"4px" - 2 // NaN
+7 / 0 // ininity
 {}[0]
 parseInt("09")
 5 && 2
